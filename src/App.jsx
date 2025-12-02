@@ -7,6 +7,7 @@ import MemberDetail from './pages/MemberDetail'
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Members from './pages/Member'
+import ContactPage from './pages/Contact'
 
 const App = () => {
   useEffect(() => {
@@ -17,6 +18,7 @@ const App = () => {
       <Route element={<MainLayout />}>
         <Route path='/' element={<Home />} />
         <Route path='/gallery' element={<Gallery />} />
+        <Route path='/contact' element={<ContactPage />} />
         <Route path='/member' element={<Members />} />
         <Route path='/member/:slug' element={<MemberDetail />} />
       </Route>
