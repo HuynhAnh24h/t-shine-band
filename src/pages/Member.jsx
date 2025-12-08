@@ -54,8 +54,8 @@ const Members = () => {
             data-aos="fade-up"
             data-aos-delay="100"
           >
-            <span className="inline-block text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-blue-400 to-cyan-300 drop-shadow-[0_0_30px_rgba(34,211,238,0.5)]">
-              Our Team
+            <span className="inline-block title-font  text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-blue-400 to-cyan-300 drop-shadow-[0_0_30px_rgba(34,211,238,0.5)]">
+              Tshiner
             </span>
           </h1>
 

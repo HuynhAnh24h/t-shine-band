@@ -12,8 +12,8 @@ export const videos = [
   {
     id: 1,
     title: "Song Title 1",
-    youtubeId: "dQw4w9WgXcQ", // ID từ URL: youtube.com/watch?v=dQw4w9WgXcQ
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    youtubeId: "8To_2iRr3iQ", // ID từ URL: youtube.com/watch?v=8To_2iRr3iQ
+    thumbnail: "https://img.youtube.com/vi/8To_2iRr3iQ/maxresdefault.jpg",
     category: "rock",
     views: "1.2M",
     duration: "4:32",
@@ -23,8 +23,8 @@ export const videos = [
   {
     id: 2,
     title: "Song Title 2",
-    youtubeId: "dQw4w9WgXcQ",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    youtubeId: "8To_2iRr3iQ",
+    thumbnail: "https://img.youtube.com/vi/8To_2iRr3iQ/maxresdefault.jpg",
     category: "ballad",
     views: "850K",
     duration: "5:20",
@@ -34,8 +34,8 @@ export const videos = [
   {
     id: 3,
     title: "Song Title 3",
-    youtubeId: "dQw4w9WgXcQ",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    youtubeId: "8To_2iRr3iQ",
+    thumbnail: "https://img.youtube.com/vi/8To_2iRr3iQ/maxresdefault.jpg",
     category: "pop",
     views: "2.1M",
     duration: "3:45",
@@ -45,8 +45,8 @@ export const videos = [
   {
     id: 4,
     title: "Song Title 4",
-    youtubeId: "dQw4w9WgXcQ",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    youtubeId: "8To_2iRr3iQ",
+    thumbnail: "https://img.youtube.com/vi/8To_2iRr3iQ/maxresdefault.jpg",
     category: "acoustic",
     views: "650K",
     duration: "4:15",
@@ -56,8 +56,8 @@ export const videos = [
   {
     id: 5,
     title: "Song Title 5",
-    youtubeId: "dQw4w9WgXcQ",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    youtubeId: "8To_2iRr3iQ",
+    thumbnail: "https://img.youtube.com/vi/8To_2iRr3iQ/maxresdefault.jpg",
     category: "live",
     views: "3.5M",
     duration: "6:40",
@@ -67,8 +67,8 @@ export const videos = [
   {
     id: 6,
     title: "Song Title 6",
-    youtubeId: "dQw4w9WgXcQ",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    youtubeId: "8To_2iRr3iQ",
+    thumbnail: "https://img.youtube.com/vi/8To_2iRr3iQ/maxresdefault.jpg",
     category: "rock",
     views: "1.8M",
     duration: "4:05",

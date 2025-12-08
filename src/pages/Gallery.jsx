@@ -63,7 +63,7 @@ const Gallery = () => {
       <div className="max-w-7xl mx-auto mb-16 text-center" data-aos="fade-down">
         <h2 className="text-5xl md:text-6xl font-black text-white mb-4 tracking-tight">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-blue-400 to-cyan-300">
-            Gallery
+            Thư viện
           </span>
         </h2>
         <p className="text-gray-400 text-lg max-w-2xl mx-auto">
