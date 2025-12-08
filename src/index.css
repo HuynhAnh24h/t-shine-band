@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: 'Network';
+    src: url('./font/Network.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title-font {
+    font-family: 'Network', sans-serif;
+    font-size: 32px; /* tuỳ chỉnh theo nhu cầu */
+    font-weight: bold;
+}

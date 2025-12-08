@@ -38,17 +38,8 @@ const Footer = () => {
           >
             {/* Logo Text (Giống Header) */}
             <Link to="/" className="group flex items-center gap-2">
-                <div className="relative">
-                    <div className="relative w-10 h-10 bg-gradient-to-br from-blue-600 via-cyan-500 to-blue-700 rounded-full flex items-center justify-center shadow-lg shadow-cyan-500/30">
-                        <span className="text-white font-black text-xl" style={{ fontFamily: 'Impact, sans-serif' }}>T</span>
-                    </div>
-                </div>
                 <h2 
-                    className="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-blue-400 to-cyan-300 tracking-wider drop-shadow-[0_0_5px_rgba(34,211,238,0.5)]"
-                    style={{ 
-                        fontFamily: "'Orbitron', 'Rajdhani', sans-serif",
-                        letterSpacing: '0.1em'
-                    }}
+                    className="text-2xl title-font font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-blue-400 to-cyan-300 tracking-wider drop-shadow-[0_0_5px_rgba(34,211,238,0.5)]"
                 >
                     TSHINE
                 </h2>

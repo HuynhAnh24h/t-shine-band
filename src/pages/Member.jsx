@@ -199,37 +199,7 @@ const Members = () => {
         )}
       </section>
 
-      {/* Call to Action Section */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
-        <div 
-          className="relative bg-gradient-to-br from-blue-900/50 to-cyan-900/30 backdrop-blur-xl rounded-3xl p-12 md:p-16 border border-cyan-400/30 overflow-hidden"
-          data-aos="fade-up"
-        >
-          {/* Background Pattern */}
-          <div className="absolute inset-0 opacity-10">
-            <div className="absolute inset-0" style={{
-              backgroundImage: 'radial-gradient(circle, rgba(34,211,238,0.3) 1px, transparent 1px)',
-              backgroundSize: '50px 50px'
-            }}></div>
-          </div>
-
-          <div className="relative text-center">
-            <h2 className="text-4xl md:text-5xl font-black text-white mb-4">
-              Muốn gia nhập đội ngũ?
-            </h2>
-            <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Chúng tôi luôn tìm kiếm những tài năng mới để cùng tạo nên âm nhạc tuyệt vời
-            </p>
-            <Link
-              to="/contact"
-              className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-full font-bold text-white shadow-lg shadow-blue-500/50 hover:shadow-cyan-500/50 transition-all duration-300 hover:scale-105"
-            >
-              <span>Liên hệ với chúng tôi</span>
-              <FaArrowRight className="w-4 h-4" />
-            </Link>
-          </div>
-        </div>
-      </section>
+      
 
       {/* Background Decoration */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden -z-10">
