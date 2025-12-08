@@ -109,7 +109,7 @@ const Hero = () => {
                 }`}
               >
                 <Link
-                  to="/members"
+                  to="/member"
                   className="group relative px-8 py-4 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-full font-bold text-white shadow-lg shadow-blue-500/50 hover:shadow-cyan-500/50 transition-all duration-300 hover:scale-105 overflow-hidden"
                 >
                   <span className="relative z-10 flex items-center gap-2">
@@ -120,7 +120,7 @@ const Hero = () => {
                 </Link>
 
                 <Link
-                  to="/library"
+                  to="/gallery"
                   className="px-8 py-4 bg-white/10 backdrop-blur-md border-2 border-cyan-400/50 rounded-full font-bold text-white hover:bg-white/20 hover:border-cyan-400 transition-all duration-300 hover:scale-105"
                 >
                   Xem thêm
